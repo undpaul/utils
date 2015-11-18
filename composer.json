@@ -1,0 +1,16 @@
+{
+  "name": "undpaul/utils",
+  "description": "Common (composer based) tools we use at undpaul",
+  "license": "GPLv2",
+  "authors": [
+    {
+      "name": "Johannes Haseitl",
+      "email": "johannes@undpaul.de"
+    }
+  ],
+  "require": {
+    "drush/drush": "dev-master",
+    "derhasi/toggl2redmine": "^0.2.4",
+    "derhasi/buddy": "dev-master"
+  }
+}
