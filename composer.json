@@ -9,7 +9,6 @@
     }
   ],
   "require": {
-    "drush/drush": "^8.0.0-rc4",
     "derhasi/toggl2redmine": "^0.2.4",
     "derhasi/buddy": "^0.1.0"
   }
